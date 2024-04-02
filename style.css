@@ -1,3 +1,24 @@
+/*index.html styling */
+#good, #good-btn:hover{
+  background-image: linear-gradient(#7ee788, #0aa819);
+}
+#bad, #bad-btn:hover {
+  background-image: linear-gradient(#e77e, #a80a19);
+}
+
+#intro {
+  background-color: gray;
+  color: #ffffff;
+}
+
+.nav-link {
+  color: rgb(75, 75, 75);
+}
+
+.nav-link:hover {
+  color: rgb(255, 255, 255);
+}
+
 /* good-examples.html styling */
 #ap-img {
   width: 39em;
